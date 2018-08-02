@@ -141,12 +141,12 @@
   // Fontello
   @font-face {
     font-family: 'Fontello';
-    src: url('https://s3.amazonaws.com/fonts/fontello.eot?88483298');
-    src: url('https://s3.amazonaws.com/fonts/fontello.eot?88483298#iefix') format('embedded-opentype'),
-    url('https://s3.amazonaws.com/fonts/fontello.woff2?88483298') format('woff2'),
-    url('https://s3.amazonaws.com/fonts/fontello.woff?88483298') format('woff'),
-    url('https://s3.amazonaws.com/fonts/fontello.ttf?88483298') format('truetype'),
-    url('https://s3.amazonaws.com/fonts/fontello.svg?88483298#fontello') format('svg');
+    src: url('https://s3.amazonaws.com/assets.scenethink.com/fonts/fontello.eot?88483298');
+    src: url('https://s3.amazonaws.com/assets.scenethink.com/fonts/fontello.eot?88483298#iefix') format('embedded-opentype'),
+    url('https://s3.amazonaws.com/assets.scenethink.com/fonts/fontello.woff2?88483298') format('woff2'),
+    url('https://s3.amazonaws.com/assets.scenethink.com/fonts/fontello.woff?88483298') format('woff'),
+    url('https://s3.amazonaws.com/assets.scenethink.com/fonts/fontello.ttf?88483298') format('truetype'),
+    url('https://s3.amazonaws.com/assets.scenethink.com/fonts/fontello.svg?88483298#fontello') format('svg');
     font-weight: normal;
     font-style: normal;
   }
